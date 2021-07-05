@@ -1,0 +1,6 @@
+DELETE FROM categorie;
+DELETE FROM partie;
+DELETE FROM propositions;
+DELETE FROM question;
+DELETE FROM question_has_partie;
+DELETE FROM reponse;

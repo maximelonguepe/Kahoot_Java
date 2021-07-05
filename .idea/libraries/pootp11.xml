@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pootp11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/pootp1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
